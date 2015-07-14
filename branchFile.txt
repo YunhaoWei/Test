@@ -1,0 +1,1 @@
+I  add a file in another branch and then merge it with the master branch.
