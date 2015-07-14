@@ -1,5 +1,0 @@
-The first git text file!
-
-I just made some changes to this file!
-
-I made a third change here!
